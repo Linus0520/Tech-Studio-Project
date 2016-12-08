@@ -45,6 +45,9 @@ We use soft sweets to connect to the Makey makey board. You can use whatever kin
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Assets
+All the assets are in the assets file. You can create new characters and replace them.
+
 ## Credits
 Group Member: Yichen Shen, Sitong Wang, Lulu Kang, Zhen Wang
 
