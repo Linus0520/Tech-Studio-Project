@@ -7,7 +7,7 @@ Create a cute interactive game, which is like flappy bird and use distance senso
 After research we found there were already lots of sensor-control games online, so we change our idea a little bit. The monster will be able to shoot fireballs to eliminate the planets. If the monster is hit by the planet, game will be over. Instead of using distance sensor, we used makey makey to control the monster’s position and shoot fireballs.  We made a gamepad and put makey makey board inside, selected soft sweets as buttons to control position.
  
 ## Technology
-Using Creative JS library: ZIM to create game interface. Open.html is start page, game.html is game page and over.htm is the gameover page.There pages are linked together by the buttons.
+Using Creative JS library: ZIM to create game interface. Open.html is start page, game.html is game page and over.htm is the gameover page.Three pages are linked together by the buttons.
 
 ## Material
 Makey makey board, carton, tape, soft sweets, paper, water color pen.
